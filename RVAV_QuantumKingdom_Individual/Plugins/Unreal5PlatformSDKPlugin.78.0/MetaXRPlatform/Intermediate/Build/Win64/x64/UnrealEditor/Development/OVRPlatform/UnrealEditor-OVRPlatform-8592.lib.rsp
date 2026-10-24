@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OVRPlatform-8592.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\01opi\Documents\GitHub\RVA_QuantumKingdom_Individual\Intermediate\Build\Win64\x64\QuantumKingdomEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\01opi\Documents\GitHub\RVA_QuantumKingdom_Individual\Plugins\Unreal5PlatformSDKPlugin.78.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.1.cpp.obj"
+"C:\Users\01opi\Documents\GitHub\RVA_QuantumKingdom_Individual\Plugins\Unreal5PlatformSDKPlugin.78.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.2.cpp.obj"
+"C:\Users\01opi\Documents\GitHub\RVA_QuantumKingdom_Individual\Plugins\Unreal5PlatformSDKPlugin.78.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.3.cpp.obj"
+"C:\Users\01opi\Documents\GitHub\RVA_QuantumKingdom_Individual\Plugins\Unreal5PlatformSDKPlugin.78.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.4.cpp.obj"
+"C:\Users\01opi\Documents\GitHub\RVA_QuantumKingdom_Individual\Plugins\Unreal5PlatformSDKPlugin.78.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Default.rc2.res"
+/OUT:"C:\Users\01opi\Documents\GitHub\RVA_QuantumKingdom_Individual\Plugins\Unreal5PlatformSDKPlugin.78.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\UnrealEditor-OVRPlatform-8592.lib"
