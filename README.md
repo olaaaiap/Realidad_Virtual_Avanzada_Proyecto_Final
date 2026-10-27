@@ -83,15 +83,6 @@ La pistola va siempre en un socket en la muñeca del jugador. Se puede coger en 
 - **Munición.** El contador de la pistola no se actualizaba desde C++. Lo arreglé guardando la referencia al widget (`CachedWidget`) y ajustando su *draw space*.
 - **Manos.** La mano izquierda usaba el modelo de la derecha. La invertí escalando en Y con valor -1.
 
-## Sistemas base del proyecto grupal
-
-Además de mi parte, el repo incluye los sistemas creados en grupo. El proceso está documentado paso a paso en [`Content/Olaia/proceso.md`](Content/Olaia/proceso.md):
-
-- `OlaiaVRPawn`: copia del VR Pawn del template, para no modificar el original.
-- Sistema de munición en la pistola.
-- Sistema de vidas, con daño y **3 segundos de invulnerabilidad** tras cada golpe.
-- *Game over* al llegar a 0 vidas.
-- Menú inicial con Play, Settings y Exit, y pantallas de victoria y *game over*.
 
 ## Diferencias con el GDD
 
@@ -120,3 +111,11 @@ El GDD describe un juego más ambicioso que lo que se pudo implementar en el tie
 - Interacción en VR con OpenXR: coger objetos, sockets, locomoción continua y teletransporte, háptica.
 - Optimizar efectos de partículas (Niagara) y luces para mantener el rendimiento en VR.
 - Diseñar para la presencia en VR: audio contextual, feedback háptico y coherencia visual del cuerpo del jugador.
+
+
+## Equipo
+
+- Manuel Alejandro Villalba
+- Olaia Picabea
+- Hilario Javier Del Valle
+- Pablo Álvarez de Lara
